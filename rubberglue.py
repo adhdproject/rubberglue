@@ -1,6 +1,4 @@
-from __future__ import print_function
-
-import socket,asyncore
+import socket, asyncore
 import time
 import random
 import hashlib
